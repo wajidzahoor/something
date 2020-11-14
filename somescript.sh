@@ -1,3 +1,3 @@
 echo "this is some code"
-NUMBER = $(($NUMBERONE + $NUMBERTWO))
+NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo $NUMBER
